@@ -1,0 +1,9 @@
+/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/CMakeFiles/file-manager-qt.dir
+/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/CMakeFiles/edit_cache.dir
+/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/CMakeFiles/rebuild_cache.dir
+/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/CMakeFiles/list_install_components.dir
+/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/CMakeFiles/install.dir
+/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/CMakeFiles/install/local.dir
+/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/CMakeFiles/install/strip.dir
+/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/CMakeFiles/file-manager-qt_autogen_timestamp_deps.dir
+/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/CMakeFiles/file-manager-qt_autogen.dir

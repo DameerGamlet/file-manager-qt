@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/file-manager-qt_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/file-manager-qt.dir/file-manager-qt_autogen/mocs_compilation.cpp.o -c /mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/file-manager-qt_autogen/mocs_compilation.cpp",
+  "file": "/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/file-manager-qt_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/file-manager-qt.dir/file-manager-qt_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/file-manager-qt_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/file-manager-qt.dir/main.cpp.o -c /mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/main.cpp",
+  "file": "/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/main.cpp",
+  "output": "CMakeFiles/file-manager-qt.dir/main.cpp.o"
+},
+{
+  "directory": "/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/file-manager-qt_autogen/include -isystem /usr/include/qt -isystem /usr/include/qt/QtWidgets -isystem /usr/include/qt/QtGui -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -std=gnu++17 -fPIC -o CMakeFiles/file-manager-qt.dir/mainwindow.cpp.o -c /mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/mainwindow.cpp",
+  "file": "/mnt/sda1/03_PROJECTS/QT_PROJECTS/file-manager-qt/mainwindow.cpp",
+  "output": "CMakeFiles/file-manager-qt.dir/mainwindow.cpp.o"
+}
+]
